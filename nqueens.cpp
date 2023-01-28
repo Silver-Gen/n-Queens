@@ -155,7 +155,7 @@ class nqueens
 };
 int main()
 {
-    unsigned int statesvar=0;//Variable to switch on/off the statements like 'Enter the variable etc';
+    unsigned int statesvar=1;//Variable to switch on/off the statements like 'Enter the variable etc';
     statements(&statesvar);
     unsigned int n;
     std::cin>>n;
