@@ -8,6 +8,8 @@ This probably prints arragements in a chessboard format, Nothing more than that.
 
 for eg-
 
+
+
 ---------------------------------
 Arrangement 77
 ---------------------------------
